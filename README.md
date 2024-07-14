@@ -13,6 +13,7 @@
 # Development tools
 ![Node.js Badge](https://camo.githubusercontent.com/0d58facab1be74748c39244ff3d990ae8ddd765af40263ed006219154ba90649/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6f64652e6a732d3644413535463f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465)
 ![Vite](https://camo.githubusercontent.com/3a15a92b116b1afb31a0ccaab1eedc0b09251b6f0f5b149ba91d488ae6a47ad3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f766974652d2532333634364346462e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d76697465266c6f676f436f6c6f723d7768697465)
+![npm](https://img.shields.io/npm/v/npm?style=for-the-badge&logo=npm&logoColor=white)
 <!---
 8bitbug/8bitbug is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
