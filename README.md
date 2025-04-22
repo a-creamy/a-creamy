@@ -12,4 +12,5 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![SolidJS](https://img.shields.io/badge/SolidJS-2c4f7c?style=for-the-badge&logo=solid&logoColor=c8c9cb)
 
-[![Acreamy's GitHub stats](<https://github-readme-stats.vercel.app/api?username=acreamy>)](https://github.com/anuraghazra/github-readme-stats)
+# Info
+<img src="https://github-readme-stats.vercel.app/api?username=a-creamy&show_icons=true&theme=gruvbox" alt="Acreamy's GitHub stats" width="450" />
