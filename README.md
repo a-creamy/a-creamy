@@ -11,3 +11,5 @@
 ![Tailwind CSS Badge](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![SolidJS](https://img.shields.io/badge/SolidJS-2c4f7c?style=for-the-badge&logo=solid&logoColor=c8c9cb)
+
+[![Acreamy's GitHub stats](https://github-readme-stats.vercel.app/api?username=a-creamy)](https://github.com/anuraghazra/github-readme-stats)
